@@ -8,7 +8,7 @@ public class Cinema {
 	private ArrayList<Film> lesFilms;
 	
 	public Cinema(){
-		
+		//testtttt
 	}
 	//Constructeur
 	public Cinema(String unNom){
